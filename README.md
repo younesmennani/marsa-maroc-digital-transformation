@@ -31,8 +31,10 @@ A case study analyzing operational inefficiencies at **Marsa Maroc** (Morocco’
 ---
 
 ## 📂 Files  
-- `PFE_MARSA_MAROC_2024.pdf`: Full case study.  
-- `Executive_Summary_EN.md`: Key takeaways in English.  
+- [PFE MARSA MAROC 2024.pdf](https://github.com/user-attachments/files/19959989/PFE.MARSA.MAROC.2024.pdf)
+: Full case study.  
+- `[PFE MARSA MAROC.pptx](https://github.com/user-attachments/files/19959994/PFE.MARSA.MAROC.pptx)
+ `: Key takeaways in English.  
 
 ---
 
